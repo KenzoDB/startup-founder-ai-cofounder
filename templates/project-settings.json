@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "startup-founder-ai-cofounder": {
+      "source": { "source": "github", "repo": "KenzoDB/startup-founder-ai-cofounder" }
+    }
+  },
+  "enabledPlugins": {
+    "yc-cofounder@startup-founder-ai-cofounder": true
+  }
+}

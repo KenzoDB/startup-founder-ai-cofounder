@@ -1,0 +1,15 @@
+Nearly every billion-dollar company uses one of nine business models: SaaS, transactional, marketplace, hard tech, usage-based, enterprise, advertising, e-commerce, or bio. Copy a proven model rather than inventing a new one.
+SaaS makes up 31% of top 100 YC companies, transactional 22%, and marketplaces 14%—together 67% of the list. Advertising and e-commerce barely register.
+Marketplaces are 14% of the top 100 but create 30% of total value because five of the top 10 YC companies are marketplaces (Airbnb, Instacart, DoorDash, OpenSea, Fair). They tend to produce winner-take-all outcomes via network effects.
+Transactional businesses are 22% of the top 100 but create 29% of total value. Being directly in the flow of funds (like Stripe processing payments) makes it easy to take a cut and creates lock-in.
+Do not use an advertising business model unless you expect to be a top-10 site on the internet; only 3% of top YC companies use advertising.
+Services/consulting, affiliate, hardware-only, and platform-dependent businesses are absent from the YC top 100 for specific reasons: non-recurring revenue, distance from transaction, low margins/high capital needs, and platform risk respectively.
+At 95% monthly retention, you lose 46 of 100 customers in a year; at 90% monthly retention, you lose 72 of 100. A 5% difference in monthly retention can be life or death.
+The best businesses generate recurring revenue, have high retention, build defensible moats, are close to the transaction, scale with software not people, and use proven business models.
+Five pricing insights: (1) Charge—it's one of the best ways to learn about your business. (2) Price on value, not cost—cost-plus pricing ignores perceived value. (3) You're almost certainly undercharging; lower price is not a sustainable advantage. (4) Pricing isn't permanent—raise prices over time by excluding existing customers or giving advance notice. (5) Keep it simple so pricing doesn't create friction.
+The ideal price is when customers complain but still pay. If they accept immediately, you're probably too cheap.
+Raising prices is the easiest way to grow revenue: doubling your price on existing customers doubles revenue without acquiring a single new customer.
+Segment went from free to $120/year to $18,000/year by being pushed to quote $120,000—a 150x increase—demonstrating that founders dramatically underestimate willingness to pay. Segment was later acquired by Twilio for $3B+.
+Low prices can actually signal low value to customers—Segment's customers told them they were worried about trusting a product priced at only $10/month.
+Four valid reasons to offer a lower price: acquiring your first user for feedback, getting a recognizable logo for social proof, building lock-in with customer data, or planning to renew at a higher price after year one.
+To discover value, ask users what problem they hoped your product would solve; answers cluster around: make more money, reduce costs, move faster, or avoid risk.

@@ -1,0 +1,10 @@
+Resilience, not confidence or credentials, is the most important trait for startup founders—quiet, unassuming founders can be among the most resilient.
+It's fine to start a startup to get rich or out of curiosity; initial motivations don't matter much because they change over time. Enduring motivations are genuine interest in the problem and love for the people you work with.
+Do a practical worst-case analysis: assume you earn little or no salary for a year and the startup fails—if you can live with that, go for it; if you can't, your anxiety will self-sabotage you.
+Factor in the career learning value of startup experience when doing worst-case analysis: many employers actively seek to hire former founders, and companies like Rippling hire ~50 former founders to run product divisions as general managers.
+Don't treat finding an idea and finding a cofounder as separate tasks—your best ideas will emerge from conversations with smart people who may become your cofounder.
+To prepare for a future startup, work at a startup (not a big company) to see how one operates and be around less risk-averse potential cofounders.
+Launch side projects, however small, to get the experience of turning ideas into reality—a simple version built over a weekend counts.
+Use Paul Buchheit's test to judge a side project: it's better to make a product a few people truly love than one many people are indifferent to. A single passionate user of a crude prototype matters more than a million waitlist signups.
+Key signal to quit your job: you find your day job draining but feel energized working on side projects in evenings and weekends, especially if you enjoy working with your collaborator and both want to be founders.
+If you're not a programmer, learn enough coding to build a version one of your ideas rather than waiting to find a technical cofounder.

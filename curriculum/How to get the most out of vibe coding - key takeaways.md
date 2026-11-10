@@ -1,0 +1,13 @@
+Before writing any code, use the LLM to create a comprehensive plan in a markdown file inside your project folder, then implement it section by section, marking each section complete and committing to Git before moving to the next.
+Use git reset --hard liberally: when an LLM bug fix isn't working after a few attempts, reset to clean state rather than letting the LLM accumulate layers of bad code. If you eventually find the fix, reset and apply just that fix cleanly.
+Write high-level integration tests (simulating user clicking through the app end-to-end) rather than unit tests—this catches when the LLM makes unnecessary changes to unrelated logic.
+For complex new features, build a standalone reference implementation in a clean codebase first, then point your LLM at that reference while reimplementing inside your larger project.
+Write extensive instruction files (Cursor rules, Windsurf rules, claude.md)—some founders write hundreds of lines of instructions and it makes AI coding significantly more effective.
+Choose tech stacks with abundant training data: Ruby on Rails performed exceptionally well because of 20 years of consistent conventions and training data. Rust and Elixir had weaker results.
+For bug fixing: first paste the raw error message into the LLM (often sufficient). For complex bugs, ask the LLM to think through 3-4 possible causes before writing any code. If stuck, switch models entirely.
+Use multiple AI coding tools simultaneously—e.g., run Cursor and Windsurf on the same project, using Cursor for faster front-end tasks and Windsurf for longer-thinking tasks, or run both in parallel and pick the better output.
+Non-coders should start with Replit or Lovable for UI-focused work; anyone with some coding background should go straight to Cursor, Windsurf, or Claude Code for better control over backend logic.
+Download API documentation locally into a subdirectory rather than relying on online doc access, and instruct the LLM to read docs before implementing.
+Keep files small and modular with clear API boundaries—service-based architecture helps both humans and LLMs avoid unintended side effects from changes.
+Use voice input (e.g., Aqua) to prompt AI tools at ~140 words per minute; LLMs are tolerant of transcription imperfections.
+If the AI IDE gets stuck in a loop, try pasting the same code and question directly into the LLM's web UI—sometimes it produces a result the IDE cannot.

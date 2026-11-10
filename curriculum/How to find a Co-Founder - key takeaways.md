@@ -1,0 +1,10 @@
+In ~90% of cases you should prioritize finding a co-founder before starting; the ~10% exception is if you are an engineer with deep domain expertise and high conviction about a specific idea — then you can start solo while actively searching for a co-founder.
+The most important quality in a co-founder is how they handle stress, not their current skill set. Having worked together under stressful conditions previously is the best signal — casual friendships and low-pressure jobs at big companies don't reliably predict this.
+Before committing, explicitly discuss: why each person wants to start a company, what success looks like, work ethic expectations, and who will be CEO. Misalignment on any of these is a top cause of co-founder breakups.
+Value a co-founder's trajectory (ability to learn, adapt, grow) over their specific technical skills today, since startups change dramatically over time.
+Default to an equal equity split between co-founders. Over 10+ years of working together, early differences in contribution become insignificant, and equal ownership keeps both parties fully invested.
+The #1 reason startups fail at YC is co-founder breakups, most commonly caused by: loss of mutual respect (feeling you could do the other's job better), disputes over who should be CEO, or mismatched work ethic expectations.
+To prevent co-founder breakups, schedule regular one-on-ones (e.g., monthly) to discuss how the relationship is going. Don't delay hard conversations — pressure builds up silently and eventually explodes.
+When searching your network for co-founders, never assume someone is unavailable. Always make the ask. If they decline, ask who they would pick as their co-founder and request an introduction — this 'branching algorithm' expands your search.
+On the YC co-founder matching platform, the best matches are people who likely would have met anyway — similar age, overlapping interests, shared background. Large mismatches with no common ground are red flags.
+If you don't know a potential co-founder well, do a trial period: work together on evenings/weekends on small projects before committing full-time.

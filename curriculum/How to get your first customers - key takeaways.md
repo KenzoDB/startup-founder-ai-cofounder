@@ -1,0 +1,10 @@
+Founders must do sales themselves before hiring a sales team—you can't outsource sales until you know what good looks like, and you can't tell if the product is bad unless you've tried selling it first.
+Sales emails should be max 6-8 sentences, plain text (no HTML), clearly state what you do, address the customer's problem, mention you're the founder, include social proof, link to a simple website with product screenshots, and end with a clear call to action.
+Your first customers should be your easiest to close—sell to people you know, sell to startups (short decision lines, easy to find decision-makers), and deprioritize slow-moving leads. It's fine to say 'let's talk again in 6 months' to tire-kickers.
+In B2B, don't offer free trials. Instead use a money-back guarantee (30-60 days) or let customers opt out of an annual contract to monthly. If they won't pay, move on—they're not a real customer.
+Work backwards from your sales goal using funnel math: example shows 500 outreach emails → 250 opens (50%) → 20 responses (5% of opens) → 10 demos (50%) → 2 customers (20% close rate). Sending only 100 emails with these rates yields zero customers.
+The most common founder mistake is not doing enough outreach, then concluding 'sales doesn't work for me.' Sales is a numbers game because most people are not early adopters—you must send hundreds of emails to find the few who are.
+Track every step of your sales funnel in a simple CRM (recommended: Apollo.io, Close.com, Pipedrive, Hunter.io) so you can identify which conversion step is weakest.
+Increase your price until customers complain but still pay—that's the right price.
+Even companies whose eventual growth comes from SEO, SEM, referrals, or virality did NOT start there—they all started with unscalable, manual customer acquisition. Scalable channels are end states, not starting points.
+Onboarding is a critical step after closing—if you skip it, you'll have high churn because early products are hard to use without help.

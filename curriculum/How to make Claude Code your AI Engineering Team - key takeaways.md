@@ -1,0 +1,8 @@
+G Stack implements a 'thin harness, fat skills' approach: the scaffolding around AI agents should be minimal, while the domain-specific prompts/skills should be rich and detailed.
+The Office Hours skill asks six forcing questions before any coding begins, starting with 'What's the strongest evidence that someone actually wants this?' — reframing the product before building.
+Adversarial review runs a multi-step process on design docs, scoring them and auto-fixing issues (in the demo, it improved a score from 6/10 to 8/10 and caught 16 issues automatically).
+For parallel AI coding, Garry runs 10-15 Claude Code sessions simultaneously using separate worktrees and branches, each handling a different feature or bug fix, which can land as parallel PRs.
+The QA bottleneck in AI coding was solved by wrapping Playwright at the CLI level so Claude Code can take screenshots, click elements, fill forms, and run browser-based tests without the sluggish Claude in Chrome MCP.
+Design Shotgun farms out multiple UI design directions to OpenAI Codex image generation, produces 3 variants in ~60 seconds, and lets you rate and select before coding begins.
+The workflow sequence is: Office Hours → Plan/CEO Review → Adversarial Review → Code → Review (staff-level bug catching) → QA (browser testing) → Ship (PR readiness check).
+80-90% of experienced G Stack users' time is spent in office hours, plan CEO review, and autoplan — the planning phase — not in the coding phase.

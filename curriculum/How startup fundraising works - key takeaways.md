@@ -1,0 +1,13 @@
+Fundraising is not glamorous pitching—it's a grind of one-on-one coffee chats and Zoom calls, often 100+ meetings (Freshpaint met 160 investors over 4.5 months to raise $1.6M with a 24% conversion rate).
+Build a product and get users before fundraising; even capital-intensive businesses like Solugen started with a desk-sized prototype and $10K/month revenue from hot tub supply stores before raising $4M.
+You don't need to impress investors with fancy decks or magic words—just show the product, explain what customers think, and articulate even a 1% chance it could get huge (Retool's founder raised by opening his laptop and building a tool live, no deck).
+SAFEs (Simple Agreement for Future Equity) are only 5 pages, have only two real terms (investment amount and valuation cap—discounts are rarely used), require no lawyers, and can be found free on YC's website.
+A typical seed round is $500K to a couple million, closable in weeks or days using SAFEs, with no legal fees—unlike Series A/B rounds that are $10-50M and take months with hundreds of thousands in legal costs.
+SAFEs grant no board seats, no shares (shares convert in next round), and no information rights, so founders keep total control after raising seed money.
+Founders typically sell only 10-20% of their company when raising seed rounds on SAFEs.
+Bootstrapping forever means stretching out the pain of fundraising across the entire life of your company—better to rip off the band-aid, raise once, then optionally never raise again (like Zapier, which raised once and grew to $100M revenue).
+No network needed: Podium's founders from Utah had no Silicon Valley connections but raised successfully because they were making tens of thousands monthly selling review software to tire shops.
+Never let someone else pitch investors for you; if someone offers to raise money on your behalf, ask them for an introduction instead and take the meeting yourself.
+Investor rejection is universal and meaningless—Envision's founder was rejected 50+ times before raising $500K (company later acquired for $275M); Whatnot could barely raise a seed round and is now worth $3.7B.
+You don't need every investor to say yes—you just need a few believers, and there are more investors with more money looking to invest in startups than ever before.
+Clerky (YC S11) lets you send and sign SAFEs in a few clicks, making seed fundraising operationally trivial.

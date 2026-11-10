@@ -1,0 +1,12 @@
+Use a 4-factor idea quality score (1-10 each, averaged): (1) How big the idea seems (could it be a publicly-traded company?), (2) Founder-market fit (do you have relevant expertise?), (3) How easy it is to get started (can you build and ship quickly without needing millions?), (4) Early market feedback (do people immediately want it?).
+The 'uncanny valley of product-market fit': having a little bit of traction is actually worse than having zero traction, because zero traction lets you cleanly move on, while a little traction traps talented founders for years.
+Most founders take too long to pivot, not too short. Common reasons: loss aversion, confusing politeness with traction, fear of admitting defeat, blaming customers/market, and inspirational anecdotes about persistence.
+Good reasons to pivot: you hate working on the idea, it's not growing despite months of effort, you're not a good fit for the idea, you're relying on an external factor outside your control (e.g., mainstream VR adoption), or you're out of ideas to make it work.
+Bad reasons to pivot: running away from hard work (e.g., pivoting right when it's time to do sales), chasing a hot trend you read about, or chronic idea-hopping without ever following through.
+When pivoting, find something you're MORE excited about - choosing a harder but more inspiring idea often works better than a 'safe' boring one. The Brex founders lit up when they switched from VR hardware to a credit card for startups.
+Pivot whiplash (pivoting too frequently) can kill a company faster than working on a mediocre idea, because it causes founders to get demoralized and give up.
+Don't hire employees until you're confident in your idea. Pivoting with a team creates terrible morale problems and slows you down.
+For pure software startups, aim to complete a full build-launch-learn iteration cycle in weeks, not months. You should be constantly learning new things and reassessing assumptions.
+Venture scale rule of thumb: Can you imagine hundreds of millions or billions in net revenue? Can growth happen in under 5-10 years? Is technology a key component founders build themselves? Are margins high (70-80% gross margins)?
+Multiple high-quality shots on goal dramatically increase your odds of finding product-market fit - but each shot must be a full iteration (build, complete, ship, get feedback), not a half-hearted attempt.
+If you secretly know in your heart that your idea isn't working, that's one of the strongest signals to pivot - founders usually know before anyone else.

@@ -1,0 +1,14 @@
+The typical B2B founder sales progression is: design partnership → free trial/pilot → paid pilot → recurring revenue contract with opt-out period. 90% of founders get stuck too long in the early unpaid stages.
+Design partnerships should be short and focused on identifying a narrow burning problem. Ask customers 'What's the part of your job you hate the most?' and build a narrow wedge product in as little as 48 hours to test.
+Don't overbuild a broad platform after finding a wedge that works. Instead, take that narrow wedge product and try to sell it to 10 similar customers before adding features.
+For proof of concepts, define success metrics upfront tied to a value equation (e.g., solve 20% of queries → save $1M in salaries → charge $200K). This gives your champion hard ROI numbers to take to their CFO.
+To increase pilot engagement, get financial commitment upfront—even a small amount on a corporate credit card ($10-20K) that skips the full procurement process.
+Track 'time to first value' as a north star metric and reduce it from weeks to hours. Avoid full API integrations during pilots; use Excel imports/exports or email-based data exchange instead.
+Book the post-pilot review meeting before the pilot even starts, so you have a defined closing conversation with hard ROI metrics.
+The pro move is a recurring revenue contract (monthly or annual) with a 30-60 day opt-out/money-back guarantee period that automatically converts to a full contract—eliminating the second sales process after a pilot.
+Map the customer's buying process early by asking your champion: 'Describe the last time you bought software like this. Who internally had to approve it?' Then devise a plan to win over each stakeholder (economic buyer, technical approver, security gatekeeper, legal, end users).
+Get SOC 2 and relevant security certifications (HIPAA, ISO 27001) started as early as possible because they can delay deals by months.
+On contract redlining: be flexible on almost everything except clauses that are truly company-ending (unlimited liability, IP transfer). Ask yourself 'Is this clause company-ending or just annoying?' and accept anything that's just annoying.
+Use scarcity to create urgency: 'We only have capacity for two enterprise customers this quarter, so if you're interested, we'd love a commitment—otherwise let's reconnect in six months.'
+Never leave a meeting without the next touchpoint scheduled. Get on a plane to visit customers in person to accelerate deals.
+After signing contracts, invest heavily in customer success and onboarding—one company signed $4M in contracts but only implemented $2M due to missing customer success.

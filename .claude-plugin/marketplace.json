@@ -1,0 +1,11 @@
+{
+  "name": "startup-founder-ai-cofounder",
+  "owner": { "name": "KenzoDB" },
+  "plugins": [
+    {
+      "name": "yc-cofounder",
+      "source": "./",
+      "description": "Curso de startups de YC como fuente de verdad: doctrina siempre activa, skills por tarea y advisor con citas."
+    }
+  ]
+}
