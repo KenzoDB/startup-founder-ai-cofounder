@@ -2,8 +2,6 @@
 
 Plugin de Claude Code que convierte el curso de startups de YC en la fuente de verdad del equipo.
 
-> ⚠️ **Contiene transcripciones de un curso de terceros. Mantén este repo PRIVADO.**
-
 ## Qué incluye
 - `DOCTRINE.md`: doctrina destilada + índice. Se inyecta en **cada sesión** (inicio, reanudar, limpiar, compactar) con un hook.
 - Hook por mensaje: recordatorio de una línea para no perder la doctrina en conversaciones largas.
