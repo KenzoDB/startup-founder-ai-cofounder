@@ -23,7 +23,7 @@ Se inyecta en cada sesión. Rutas relativas a `CURRICULUM_DIR`. Responde en espa
 - **Foco solo en producto vs. Hodak:** invertir pronto en infraestructura operativa y herramientas internas.
 
 ## Índice: qué archivo abrir (en `CURRICULUM_DIR`)
-Abre primero el `- key takeaways.md` o `_digests/`; la transcripción completa solo si necesitas matiz. Usa Grep para localizar pasajes.
+Regla de coste: lee SIEMPRE antes el `- key takeaways.md` o `_digests/`; abre la transcripción completa solo si hay un matiz que ahí no está, y entonces usa Grep para localizar el pasaje en vez de leerla entera. Usa la ruta exacta `CURRICULUM_DIR/<archivo>.md`, sin buscar con Glob.
 
 | Tema | Archivos |
 |---|---|
@@ -44,4 +44,4 @@ Abre primero el `- key takeaways.md` o `_digests/`; la transcripción completa s
 Resúmenes de los archivos sin takeaways: `_digests/core.md` (Why not, Before, Paul Graham, Ideas, Do things that do not scale) y `_digests/stories.md` (las seis Story).
 
 ## Skills y advisor disponibles
-`user-interviews`, `idea-and-pivot`, `metrics-review`, `sales-and-first-customers`, `pricing-business-model`, `fundraising`, `cofounder`, `ai-native-build`. Para una opinión con citas en contexto aislado: subagente `yc-advisor`.
+`user-interviews`, `idea-and-pivot`, `metrics-review`, `sales-and-first-customers`, `pricing-business-model`, `fundraising`, `cofounder`, `ai-native-build`. Para una opinión con citas en contexto aislado: subagente `yc-advisor` (al invocarlo, pásale en el prompt el valor de `CURRICULUM_DIR` y la ruta de este `DOCTRINE.md`, que es `CURRICULUM_DIR/../DOCTRINE.md`, y el contexto relevante del equipo).
